@@ -3,16 +3,17 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+  hostname: "http://szhh.hr98.net/",
 
   author: {
-    name: "狮子耗耗@szhh",
-    url: "http://szhh.hr98.net/",
+    name: "狮子耗耗",
+    url: "https://github.com/szhhwh/",
   },
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "/logo.svg",
+  logo: "/logo.png",
+  logoDark: '/logo-dark.png',
 
   repo: "szhhwh/jingji_TSreference_vue",
 
@@ -55,7 +56,7 @@ export default hopeTheme({
       attrs: true,
       chart: true,
       codetabs: true,
-      demo: true,
+      demo: false,
       echarts: true,
       figure: true,
       flowchart: true,
@@ -87,7 +88,7 @@ export default hopeTheme({
       sup: true,
       tabs: true,
       vPre: true,
-      vuePlayground: true,
+      vuePlayground: false,
     },
 
     // uncomment these if you want a pwa
