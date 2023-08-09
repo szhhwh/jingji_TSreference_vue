@@ -2,7 +2,7 @@
   "name": "jingji_tsreference_vue",
   "version": "3.0.0",
   "description": "jingji_TSreference_vue",
-  "license": "LGPL-3.0-only",
+  "license": "GPL-3.0",
   "type": "module",
   "scripts": {
     "docs:build": "vuepress build src",

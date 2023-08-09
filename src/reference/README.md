@@ -4,7 +4,7 @@ index: false
 icon: lightbulb
 ---
 
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/t/szhhwh/jingji_LayoutTutorial?style=flat-square)](https://github.com/szhhwh/jingji_LayoutTutorial)[![GitHub Repo stars](https://img.shields.io/github/stars/szhhwh/jingji_LayoutTutorial?style=flat-square)](https://github.com/szhhwh/jingji_LayoutTutorial)
+![GitHub Repo stars](https://img.shields.io/github/stars/szhhwh/jingji_TSreference_vue)![GitHub top language](https://img.shields.io/github/languages/top/szhhwh/jingji_TSreference_vue)![GitHub](https://img.shields.io/github/license/szhhwh/jingji_TSreference_vue)![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/szhhwh/jingji_TSreference_vue)
 
 美编的一切从这里开始。
 

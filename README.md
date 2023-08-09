@@ -1,5 +1,6 @@
 # 荆棘鸟文学社美编参考文档
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/t/szhhwh/jingji_LayoutTutorial?style=flat-square)](https://github.com/szhhwh/jingji_LayoutTutorial) [![GitHub Repo stars](https://img.shields.io/github/stars/szhhwh/jingji_LayoutTutorial?style=flat-square)](https://github.com/szhhwh/jingji_LayoutTutorial)
+![GitHub Repo stars](https://img.shields.io/github/stars/szhhwh/jingji_TSreference_vue)![GitHub top language](https://img.shields.io/github/languages/top/szhhwh/jingji_TSreference_vue)![GitHub](https://img.shields.io/github/license/szhhwh/jingji_TSreference_vue)![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/szhhwh/jingji_TSreference_vue)
+
 ## 本书目录 Menu
 
 - [ChapterNo1 美编的开始](src/reference/ChapterNo1/README.md)
@@ -47,10 +48,10 @@ npm run docs:build
 ```
 
 ## 更新日志 Update log
-### v0.3.0
+### v0.3.0 Latest
 项目迁移至[jingji_TSreference_vue](https://github.com/szhhwh/jingji_TSreference_vue)
 
-### v0.2.1 Latest
+### v0.2.1
 New
 - 4.1 新增 使用搜索引擎搜寻图片素材
 - 4.2 调整 内容顺序；修改部分内容
