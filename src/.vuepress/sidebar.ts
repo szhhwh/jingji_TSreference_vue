@@ -16,7 +16,7 @@ export default sidebar({
       children: "structure",
     },
     {
-      text: "ChapterNo3 InDesign软件",
+      text: "ChapterNo3 InDesign 软件",
       prefix: "reference/ChapterNo3",
       link: "reference/ChapterNo3",
       children: "structure",
