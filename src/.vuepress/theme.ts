@@ -25,7 +25,7 @@ export default hopeTheme({
   // sidebar
   sidebar,
 
-  // footer: "",
+  footer: "荆棘鸟文学社美编部",
 
   displayFooter: true,
 
