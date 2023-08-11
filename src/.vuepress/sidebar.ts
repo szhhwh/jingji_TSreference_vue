@@ -39,5 +39,13 @@ export default sidebar({
       link: "reference/ChapterNo6",
       children: "structure",
     },
+    {
+      text: "Appendix 附录",
+      prefix: "reference/Appendix",
+      link: "reference/Appendix",
+      children: [
+        'question.md'
+      ],
+    }
   ],
 });
