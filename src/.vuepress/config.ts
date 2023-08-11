@@ -10,12 +10,9 @@ export default defineUserConfig({
 
   head: [
     [
-      'link', { rel: 'icon', href: '/favicon.ico' }
+      'link', { rel: 'icon', href: './favicon.ico' }
     ]
   ],
 
   theme,
-
-  // Enable it with pwa
-  // shouldPrefetch: false,
 });
