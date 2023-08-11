@@ -1,8 +1,8 @@
 ---
-title: Question 常见问题
+title: 常见问题
 index: false
 category:
-  - Appendix
+  - 附录
 ---
 
 ## 图片的清晰度
@@ -38,7 +38,7 @@ category:
 - [Aiseesoft](https://zh-cn.aiseesoft.com/image-upscaler/)：全功能 AI 图像放大器，一键提高图像分辨率
 - [waifu2x](https://waifu2x.udp.jp/index.zh-CN.html)：使用卷积神经网络对动漫风格的图片进行放大操作
 
-#### 本地转换
+#### 本地工具
 免费的 AI 图片超分辨率工具：
 - [Upscayl](https://upscayl.org/)（推荐）：免费且开源的 AI 图片超分辨率工具。超分辨率效果好且对硬件要求低
     - ![GitHub all releases](https://img.shields.io/github/downloads/upscayl/upscayl/total)![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/upscayl/upscayl)
