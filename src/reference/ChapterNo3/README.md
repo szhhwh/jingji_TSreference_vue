@@ -5,10 +5,26 @@ index: false
 
 本节介绍 Adobe InDesign 软件的安装和使用步骤。
 
-## InDesign软件版本
-InDesign 软件可以在 [bilibili@vposy软件](https://space.bilibili.com/252157636) 下载。
+## InDesign 软件下载
+~~InDesign 软件可以在 [weibo@vposy](https://weibo.com/u/1112829033) 下载。~~
 
-### 查看 InDesign 软件版本
+::: info vposy 停止更新 Adobe 系列软件
+> vposy 微博原文：
+> 因工作调动，已无时间维护，故暂停更新。
+> 只有微博是本人，其他渠道均为冒充。 ​​​
+> 2023.8.11
+:::
+
+> vposy 制作的 Adobe 系列软件补档
+> 链接：https://pan.baidu.com/s/1L8GGEv-YklIusnXEdIurZQ
+> 提取码：i415
+
+其他下载途径：
+- [Adobe Apps Patching](https://genpguides.github.io/)：Adobe 应用程序 Patching 集合（包含了以下两种 Patching 的安装指引）
+  - [GenP](https://www.reddit.com/r/GenP/)：GenP Patching
+  - [Monkrus Webside](https://w14.monkrus.ws/)：Monkrus Patching
+
+## InDesign 软件版本
 1. 打开 InDesign 软件。
 2. 点击上方菜单栏的帮助。
 3. 选择“帮助”菜单中的“关于 InDesign 选项”。![](../data/Pastedimage20230408231210.jpg)
