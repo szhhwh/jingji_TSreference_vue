@@ -44,7 +44,8 @@ export default sidebar({
       prefix: "reference/Appendix",
       link: "reference/Appendix",
       children: [
-        'question.md'
+        'question.md',
+        'vscode.md'
       ],
     }
   ],
