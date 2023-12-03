@@ -5,6 +5,46 @@ index: false
 
 本节介绍 Adobe InDesign 软件的安装和使用步骤。
 
+## InDesign 系统要求
+::: tabs
+
+@tab InDesign 2020 (15.x)
+|硬件|最低需求|
+|---|---|
+|处理器|Intel® Pentium® 4 或 AMD Athlon® 64 处理器|
+|操作系统|Windows 7（64 位）或 Windows 10（64 位）（不支持 Windows 10 版本 1507、1511、1703 和 1709）|
+|内存|最少 4 GB 内存（建议 16 GB）|
+|硬盘空间|安装需要 3.6GB 可用硬盘空间（不能在可移动设备上安装）|
+
+@tab InDesign 2021 (16.x)
+|硬件|最低需求|
+|---|---|
+|处理器|Intel 多核处理器（具有 64 位支持）或 AMD Athlon® 64 处理器|
+|操作系统|Windows 10（64 位）在 Windows 10 版本 1607、1809、1903、1909、2004、20H2、21H1 上受支持。|
+|内存|最少 4 GB 内存（建议 16 GB）|
+|硬盘空间|安装需要 3.6 GB 可用硬盘空间（不能在可移动设备上安装）|
+
+@tab:active InDesign 2022 (17.x)
+|硬件|最低需求|
+|---|---|
+|处理器|Intel 多核处理器（具有 64 位支持）或 AMD Athlon® 64 处理器|
+|操作系统|Windows 10 64 位（版本 1909）或更高版本；不支持 LTSC 版本。在 Windows 10 版本 1909、2004、20H2、21H1、21H2 上受支持。|
+|内存|最少 4 GB 内存（建议 16 GB）|
+|硬盘空间|安装需要 3.6 GB 可用硬盘空间（不能在可移动设备上安装）|
+
+@tab InDesign 2023 (18.x)
+|硬件|最低需求|
+|---|---|
+|处理器|Intel 多核处理器（具有 64 位支持）或 AMD Athlon® 64 处理器|
+|操作系统| Windows 10（64 位） Windows 11（64 位）在 Windows 10 版本 20H2、21H1、21H2 和 Windows 11 版本 21H2 上受支持。|
+|内存|最少 8 GB 内存（建议 16 GB）|
+|硬盘|安装需要 3.6 GB 可用硬盘空间（不能在可移动设备上安装）|
+:::
+
+::: tip InDesign 已经停止对 Windows 7 系统的支持
+最后一个支持在 Windows 7 系统上运行的 InDesign 软件版本为 15.0（待验证）
+:::
+
 ## InDesign 软件下载
 ~~InDesign 软件可以在 [weibo@vposy](https://weibo.com/u/1112829033) 下载。~~
 
