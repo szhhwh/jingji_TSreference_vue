@@ -1,16 +1,23 @@
 ---
-title: 参考文档
+title: 美编部
 index: false
-icon: lightbulb
+icon: book
 ---
 
-![GitHub Repo stars](https://img.shields.io/github/stars/szhhwh/jingji_TSreference_vue)![GitHub top language](https://img.shields.io/github/languages/top/szhhwh/jingji_TSreference_vue)![GitHub](https://img.shields.io/github/license/szhhwh/jingji_TSreference_vue)![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/szhhwh/jingji_TSreference_vue)
+![GitHub top language](https://img.shields.io/github/languages/top/szhhwh/jingji_TSreference_vue)![GitHub](https://img.shields.io/github/license/szhhwh/jingji_TSreference_vue)![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/szhhwh/jingji_TSreference_vue)
 
 美编的一切从这里开始
 
 ---
 
 ## 近期更新
+- 2024.1.1
+  - 3.3 进阶操作 -> 新增首字下沉效果
+  - 移动/调整部分内容位置
+    - 高三特刊规格移动至高三特刊文档
+    - InDesign 的系统要求/下载/版本辨别 调整至 3.1 节内
+  - 2.2 文字排版规范 -> 内容完善
+  - 其他细节调整
 - 2023.12.31
   - 3.2 基本操作 -> 补充串接的文本框架提示；删除不必要内容
   - 6.1 上交排版作品 -> 修正提示文本
@@ -33,8 +40,4 @@ icon: lightbulb
   - 3.2 基本操作 -> 新增移动页面
 
 ## TODO
-- [x] 6.3 出刊的其他注意事项 -> 关于样刊
-- [x] Appendix 附录 -> 常见问题
-- [x] 3.2 基本操作 -> 页面管理
-- [x] vscode 使用简介
 - [ ] 4.3 修缮图片
