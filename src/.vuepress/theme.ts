@@ -41,27 +41,26 @@ export default hopeTheme({
   },
 
   plugins: {
-    // You should generate and use your own comment service
-    // comment: {
-    //   provider: "Giscus",
-    //   repo: "vuepress-theme-hope/giscus-discussions",
-    //   repoId: "R_kgDOG_Pt2A",
-    //   category: "Announcements",
-    //   categoryId: "DIC_kwDOG_Pt2M4COD69",
-    // },
-
     // All features are enabled for demo, only preserve features you need here
     mdEnhance: {
       align: true,
       attrs: true,
+      chart: false,
       codetabs: true,
-      component: true,
-      demo: true,
+      demo: false,
+      echarts: false,
       figure: true,
+      flowchart: false,
+      gfm: false,
       imgLazyload: true,
       imgSize: true,
       include: true,
+      katex: true,
       mark: true,
+      mermaid: false,
+      playground: {
+        presets: ["ts", "vue"],
+      },
       stylize: [
         {
           matcher: "Recommended",
@@ -79,45 +78,7 @@ export default hopeTheme({
       sup: true,
       tabs: true,
       vPre: true,
-      tasklist: true,
-
-      // install chart.js before enabling it
-      // chart: true,
-
-      // insert component easily
-
-      // install echarts before enabling it
-      // echarts: true,
-
-      // install flowchart.ts before enabling it
-      // flowchart: true,
-
-      // gfm requires mathjax-full to provide tex support
-      // gfm: true,
-
-      // install katex before enabling it
-      // katex: true,
-
-      // install mathjax-full before enabling it
-      // mathjax: true,
-
-      // install mermaid before enabling it
-      // mermaid: true,
-
-      // playground: {
-      //   presets: ["ts", "vue"],
-      // },
-
-      // install reveal.js before enabling it
-      // revealJs: {
-      //   plugins: ["highlight", "math", "search", "notes", "zoom"],
-      // },
-
-      // install @vue/repl before enabling it
-      // vuePlayground: true,
-
-      // install sandpack-vue3 before enabling it
-      // sandpack: true,
+      vuePlayground: false,
     },
   },
 });
