@@ -3,11 +3,11 @@
 
 ## 开发
 1. 依赖环境
-- Node.js v18.19.0
+- Node.js v20.11.0
 - volta
 1. 建议使用 [volta](https://volta.sh/) 安装 [Node.js](https://nodejs.org/)
 ```sh
-volta install node@18
+volta install node@20.11.0
 ```
 2. 安装依赖
 ```sh
