@@ -4,11 +4,11 @@ index: false
 icon: lightbulb
 ---
 
-![GitHub top language](https://img.shields.io/github/languages/top/szhhwh/jingji_TSreference_vue)![GitHub](https://img.shields.io/github/license/szhhwh/jingji_TSreference_vue)![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/szhhwh/jingji_TSreference_vue)
-
 荆棘鸟文学社高三特刊制作参考文档
 
 ## 近期更新
+### 2024.3.16
+- 为左侧导航栏添加可折叠属性
 ### 2024.3.3
 - 更新高三特刊 2.2 节 -> 修复了数学公式错误
 ### 2024.2.24

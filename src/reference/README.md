@@ -4,13 +4,28 @@ index: false
 icon: book
 ---
 
-![GitHub top language](https://img.shields.io/github/languages/top/szhhwh/jingji_TSreference_vue)![GitHub](https://img.shields.io/github/license/szhhwh/jingji_TSreference_vue)![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/szhhwh/jingji_TSreference_vue)
-
 美编的一切从这里开始
+
+::: info 版本声明
+文档内容均基于 InDesign 2022 17.4 版本编写，不同版本会存在一定差异
+:::
 
 ---
 
+## 阅读指南
+### 手机端
+- 点击左上角的按钮可以打开文档目录![](assets/recording.gif)
+- 点击目录中的标题可以跳转到对应的页面
+
+### PC 端
+- 左侧为文档目录，右侧为本页内容的导航，点击即可跳转到对应的页面或位置![](assets/image/README-1710520319220.jpeg)
+
 ## 近期更新
+### 2024.3.16
+- 美编文档 README -> 新增阅读指南/调整了 InDesign 版本声明的位置/删除 shields
+- 美编文档 [附录](Appendix/question.md#高版本文档向下兼容) -> 新增高版本文档向下兼容的方法
+- 美编文档 [3.2 基本操作](ChapterNo3/3.2.md) -> 新增 InDesign 的文件类型/两个（多个）未串接的文本框的串接方法
+- 为左侧导航栏添加可折叠属性
 ### 2024.3.3
 - 美编文档 [4.1 搜寻图片素材](ChapterNo4/4.1.md) 补充使用与正文内容相匹配的素材的提醒
 ### 2024.2.9
