@@ -81,4 +81,7 @@ export default hopeTheme({
       vuePlayground: false,
     },
   },
+  pageInfo: [
+    "Author","Date","ReadingTime","Word"
+  ]
 });
