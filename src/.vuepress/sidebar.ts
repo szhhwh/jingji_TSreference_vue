@@ -26,7 +26,7 @@ export default sidebar({
       collapsible: true
     },
     {
-      text: "ChapterNo4 图片处理",
+      text: "ChapterNo4 图片",
       prefix: "ChapterNo4",
       children: "structure",
       collapsible: true

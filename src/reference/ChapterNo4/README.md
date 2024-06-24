@@ -1,4 +1,4 @@
 ---
-title: ChapterNo4 图片处理
+title: ChapterNo4 图片
 index: false
 ---
