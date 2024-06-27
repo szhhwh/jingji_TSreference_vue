@@ -48,7 +48,8 @@ export default sidebar({
       prefix: "Appendix",
       children: [
         'question.md',
-        'vscode.md'
+        'vscode.md',
+        'resource.md'
       ],
       collapsible: true
     }
