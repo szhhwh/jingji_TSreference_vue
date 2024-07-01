@@ -33,7 +33,7 @@ highlights:
           icon: laptop
           details: Adobe InDesign 的操作教程
 
-        - title: 图片处理
+        - title: 图片
           icon: image
           details: 图片收集与加工处理
         
