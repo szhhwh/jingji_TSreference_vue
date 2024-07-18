@@ -46,5 +46,5 @@ highlights:
           details: 上交排版作品流程
 
 copyright: false
-footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | GPL-3.0 协议, 版权所有 © 2024-present szhh
+footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | GPL-3.0 协议, 版权所有 © 2024-present Lionhao
 ---
