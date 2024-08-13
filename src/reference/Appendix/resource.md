@@ -6,9 +6,10 @@ category:
 ---
 ## 美编部
 
-::: info vposy 制作的 Adobe 系列软件
-- [点击跳转百度网盘](https://pan.baidu.com/s/1L8GGEv-YklIusnXEdIurZQ)
-- 提取码：i415
+::: info 微博 @vposy 制作的一键安装包
+- [点击跳转百度网盘](https://pan.baidu.com/s/1lFZu1uKfeP7yyV3YaI8b9Q)
+- 提取码：pht2
+- 解压密码：@vposy
 :::
 
 ::: info 方正标准字体
