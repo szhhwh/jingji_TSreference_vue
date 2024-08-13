@@ -14,7 +14,7 @@ export default sidebar({
       collapsible: true
     },
     {
-      text: "ChapterNo2 排版的基本知识",
+      text: "ChapterNo2 排版基础",
       prefix: "ChapterNo2",
       children: "structure",
       collapsible: true
@@ -49,7 +49,8 @@ export default sidebar({
       children: [
         'question.md',
         'vscode.md',
-        'resource.md'
+        'resource.md',
+        'changelog.md'
       ],
       collapsible: true
     }

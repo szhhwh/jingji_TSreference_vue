@@ -16,14 +16,20 @@ category:
 - 提取码：3vkn
 :::
 
+::: info 荆棘鸟文学社正刊模板 v2
+- [点击跳转百度网盘](https://pan.baidu.com/s/1k2Mgzxa4Xg3WTdmfWbEYGg)
+- 提取码：n7la
+:::
+
 ::: info 文学社 LOGO
 - [点击跳转百度网盘](https://pan.baidu.com/s/1giRO28gdnKyZDHlm_frAMw)
 - 提取码：6z2z
 :::
 
-::: info 荆棘鸟文学社正刊模板 v2
-- [点击跳转百度网盘](https://pan.baidu.com/s/1k2Mgzxa4Xg3WTdmfWbEYGg)
-- 提取码：n7la
+::: info 文学社特刊网站二维码
+![右键单击后将图片另存为即可使用](../assets/文学社特刊QR活码.png)
+> （该二维码使用草料二维码的活码功能制作）
+
 :::
 ## 外交部
 
