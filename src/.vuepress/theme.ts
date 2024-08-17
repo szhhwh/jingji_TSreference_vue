@@ -10,7 +10,8 @@ export default hopeTheme({
     url: "https://github.com/szhhwh/",
   },
 
-  iconAssets: "fontawesome-with-brands",
+  // icon
+  iconAssets: "fontawesome",
 
   logo: "/logo.png",
   logoDark: '/logo-dark.png',
