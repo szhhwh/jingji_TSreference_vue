@@ -4,6 +4,7 @@ export default navbar([
   "/",
   "/reference/",
   "/spbook/",
+  "/other/"
   // {
   //   text: "指南",
   //   icon: "lightbulb",

@@ -73,5 +73,25 @@ export default sidebar({
       children: "structure",
       collapsible: true
     }
+  ],
+  "/other/": [
+    {
+      text: "其他参考文档",
+      link: 'README.md',
+      icon: "book"
+    },
+    {
+      text: "编辑部撰稿及制刊规范",
+      link: 'editor.md',
+    },
+    {
+      text: "外交部工作注意事项",
+      link: 'foreign.md',
+
+    },
+    {
+      text: "制刊时间线",
+      link: "timeline.md"
+    }
   ]
 });
