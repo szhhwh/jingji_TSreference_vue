@@ -72,6 +72,14 @@ export default sidebar({
       prefix: "Cpt2",
       children: "structure",
       collapsible: true
+    },
+    {
+      text: "Appendix 附录",
+      prefix: "Appendix",
+      children: [
+        'changelog.md'
+      ],
+      collapsible: true
     }
   ],
   "/other/": [
