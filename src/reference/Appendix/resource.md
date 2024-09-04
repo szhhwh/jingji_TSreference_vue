@@ -20,6 +20,7 @@ category:
 ::: info 荆棘鸟文学社正刊模板 v2
 - [点击跳转百度网盘](https://pan.baidu.com/s/1k2Mgzxa4Xg3WTdmfWbEYGg?pwd=n7la)
 - 提取码：n7la
+- 注：该模板文件（indt）应直接使用 Adobe InDesign 打开
 :::
 
 ::: info 文学社 LOGO

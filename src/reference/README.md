@@ -13,8 +13,8 @@ icon: book
 :::
 
 ## 最近更新
-### 2024.8.24
-- [5.1 字体管理](ChapterNo5/5.1.md) -> 优化排版
+## 2024.9.4
+- [附录：文学社公开资源](Appendix/resource.md) -> 补充美编正刊模板的打开方式
 
 > [附录：历史更新日志](Appendix/changelog.md)
 
