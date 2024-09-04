@@ -15,6 +15,7 @@ icon: book
 ## 最近更新
 ## 2024.9.4
 - [附录：文学社公开资源](Appendix/resource.md) -> 补充美编正刊模板的打开方式
+- [附录：常见问题](Appendix/question.md#遇到文件无法正常打开该怎么办) -> 新增遇到文件无法打开的解决方法
 
 > [附录：历史更新日志](Appendix/changelog.md)
 

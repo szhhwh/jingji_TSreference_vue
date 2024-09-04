@@ -100,6 +100,10 @@ export default sidebar({
     {
       text: "制刊时间线",
       link: "timeline.md"
+    },
+    {
+      text: "PPT制作小贴士",
+      link: "ppt.md"
     }
   ]
 });
