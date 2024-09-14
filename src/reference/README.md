@@ -13,9 +13,10 @@ icon: book
 :::
 
 ## 最近更新
-## 2024.9.4
-- [附录：文学社公开资源](Appendix/resource.md) -> 补充美编正刊模板的打开方式
-- [附录：常见问题](Appendix/question.md#遇到文件无法正常打开该怎么办) -> 新增遇到文件无法打开的解决方法
+## 2024.9.14
+- 调整第三章的内容结构，在 3.1 节和原 3.2 节之间插入 [3.2 初识 InDesign](ChapterNo3/3.2.md)，并调整部分内容顺序
+- [3.2 初识 InDesign](ChapterNo3/3.2.md) -> 新增 InDesign 界面介绍
+- [3.1 安装和配置软件](ChapterNo3/3.1.md) -> 优化排版
 
 > [附录：历史更新日志](Appendix/changelog.md)
 
