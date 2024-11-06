@@ -39,4 +39,4 @@ jobs:
             username: ${{ secrets.FTP_SERVER_USERNAME }}
             password: ${{ secrets.FTP_SERVER_PASSWORD }}
             local-dir: ./src/.vuepress/dist/
-            server-dir: ./test
+            server-dir: ./test/
