@@ -5,6 +5,8 @@ category:
   - 附录
 ---
 
+## 2024.9.17
+- [3.2 初识 InDesign](../ChapterNo3/3.2.md) -> 新增面板相关操作
 ## 2024.9.14
 - 调整第三章的内容结构，在 3.1 节和原 3.2 节之间插入 [3.2 初识 InDesign](../ChapterNo3/3.2.md)，并调整部分内容顺序
 - [3.2 初识 InDesign](../ChapterNo3/3.2.md) -> 新增 InDesign 界面介绍
