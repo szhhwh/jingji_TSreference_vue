@@ -13,9 +13,8 @@ icon: book
 :::
 
 ## 最近更新
-### 2024.9.18
-- [3.2 初识 InDesign](ChapterNo3/3.2.md#插入和编辑图片) -> 新增图片相关操作/部分内容移动到 [3.3 基本操作](ChapterNo3/3.3.md)
-- [2.1 排版基本知识](ChapterNo2/2.1.md) -> 修复排版问题
+### 2024.11.6
+- 基于 Github Action 实现了自动部署到服务器
 
 > [附录：历史更新日志](Appendix/changelog.md)
 
