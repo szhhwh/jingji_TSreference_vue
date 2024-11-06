@@ -47,16 +47,11 @@ export default hopeTheme({
       align: true,
       attrs: true,
       chart: false,
-      codetabs: true,
       demo: false,
       echarts: false,
-      figure: true,
       flowchart: false,
       gfm: false,
-      imgLazyload: true,
-      imgSize: true,
       include: true,
-      katex: true,
       mark: true,
       mermaid: false,
       playground: {
@@ -77,12 +72,23 @@ export default hopeTheme({
       ],
       sub: true,
       sup: true,
-      tabs: true,
       vPre: true,
       vuePlayground: false,
     },
+    components: {
+      components: ["Badge", "BiliBili"],
+    },
+    markdownImage: {
+      figure: true,
+      lazyload: true,
+      size: true,
+    },
+    markdownMath: {
+      type: "katex",
+    },
+    markdownTab: true,
   },
   pageInfo: [
-    "Author","Date","ReadingTime","Word"
+    "Author", "Date", "ReadingTime", "Word"
   ]
 });
