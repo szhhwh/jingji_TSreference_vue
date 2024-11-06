@@ -1,0 +1,44 @@
+name: deploying-doc
+run-name: Deploying doc —— ${{ github.run_id }}
+on:
+    pull_request:
+        branches: main
+        types:
+          - closed
+
+jobs:
+    if_merged:
+        if: github.event.pull_request.merged == true
+        runs-on: ubuntu-latest
+        steps:
+            - name: 🚚 Checkout
+              uses: actions/checkout@v4
+
+            - uses: pnpm/action-setup@v4
+              name: Install pnpm
+              with:
+                version: 9
+                run_install: false
+
+            - name: Install Node.js
+              uses: actions/setup-node@v4
+              with:
+                node-version: 20
+                cache: 'pnpm'
+
+            - name: Install dependencies
+              run: pnpm install
+
+            - name: Build doc
+              run: pnpm run docs:dev
+
+            - name: 📂 Sync files
+              uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+              with:
+                server: ${{ secrets.FTP_SERVER_NAME }}
+                username: ${{ secrets.FTP_SERVER_USERNAME }}
+                password: ${{ secrets.FTP_SERVER_PASSWORD }}
+                local-dir: ./dist
+                server-dir: ./test
+
+          
