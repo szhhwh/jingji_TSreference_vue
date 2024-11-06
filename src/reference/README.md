@@ -14,7 +14,10 @@ icon: book
 
 ## 最近更新
 ### 2024.11.6
-- 基于 Github Action 实现了自动部署到服务器
+- 同步 Vue Theme Hope 到最新版本 <badge text="测试中" type="warning"/>
+  - 部分组件样式更新
+  - 新增了部分新组件
+- 基于 Github Action 实现了自动部署到服务器 <badge text="新" type="tip"/>
 
 > [附录：历史更新日志](Appendix/changelog.md)
 

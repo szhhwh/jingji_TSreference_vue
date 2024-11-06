@@ -27,5 +27,5 @@ pnpm run docs:build
 
 5. 更新依赖
 ```sh
-pnpx vp-update
+pnpm dlx vp-update
 ```
