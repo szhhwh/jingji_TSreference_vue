@@ -30,7 +30,7 @@ jobs:
           run: pnpm install
 
         - name: Build doc
-          run: pnpm run docs:dev
+          run: pnpm run docs:build
 
         - name: 📂 Sync files
           uses: SamKirkland/FTP-Deploy-Action@v4.3.5
