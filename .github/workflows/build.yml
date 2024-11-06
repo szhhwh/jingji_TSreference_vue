@@ -5,6 +5,7 @@ on:
         branches: main
         types:
           - closed
+    workflow_dispatch:
 
 jobs:
     if_merged:
@@ -40,5 +41,3 @@ jobs:
                 password: ${{ secrets.FTP_SERVER_PASSWORD }}
                 local-dir: ./dist
                 server-dir: ./test
-
-          
