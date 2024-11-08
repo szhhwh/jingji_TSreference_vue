@@ -13,6 +13,8 @@ category:
 :::
 
 ::: info 方正标准字体
+> 该字体包为文学社刊物标准字体，如在使用模板时，遇到字体丢失的问题，请下载本字体包并安装内含的字体
+
 - [点击跳转百度网盘](https://pan.baidu.com/s/1xD-LhH-67BT7aqCBF65_vA?pwd=3vkn)
 - 提取码：3vkn
 :::
