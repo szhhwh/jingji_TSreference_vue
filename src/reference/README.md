@@ -16,6 +16,7 @@ icon: book
 ### 2024.11.9
 - [3.2 初识 InDesign](./ChapterNo3/3.2.md#版面辅助线) -> 新增**版面辅助线** <badge text="新" type="tip"/>
 ### 2024.11.8
+- [4.1 搜寻图片](./ChapterNo4/4.1.md#常用的素材网站) -> 新增大量素材网站 <badge text="新" type="tip"/>
 - [3.2 初识 InDesign](./ChapterNo3/3.2.md)
   - 新增**使用模板创建文档**步骤 <badge text="新" type="tip"/>
   - 将**串接文本框架**从 [3.3 基本操作](./ChapterNo3/3.3.md) 调整到本节
