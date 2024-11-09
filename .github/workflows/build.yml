@@ -13,23 +13,25 @@ jobs:
       steps:
           - name: 🚚 Checkout
             uses: actions/checkout@v4
+            with:
+              fetch-depth: 0
 
           - uses: pnpm/action-setup@v4
-            name: Install pnpm
+            name: 🔧Install pnpm
             with:
               version: 9
               run_install: false
 
-          - name: Install Node.js
+          - name: 🔧Install Node.js
             uses: actions/setup-node@v4
             with:
               node-version: 20
               cache: 'pnpm'
 
-          - name: Install dependencies
+          - name: 🔧Install dependencies
             run: pnpm install
 
-          - name: Build doc
+          - name: 🔴Build doc
             run: pnpm run docs:build
 
           - name: 📂 Sync files
