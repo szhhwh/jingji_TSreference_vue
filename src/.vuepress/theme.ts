@@ -87,8 +87,10 @@ export default hopeTheme({
       type: "katex",
     },
     markdownTab: true,
+    git: true
   },
   pageInfo: [
     "Author", "Date", "ReadingTime", "Word"
-  ]
+  ],
+  editLink: false,
 });
