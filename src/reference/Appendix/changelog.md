@@ -4,6 +4,13 @@ index: false
 category:
   - 附录
 ---
+
+## 2024.11.8
+- [3.2 初识 InDesign](../ChapterNo3/3.2.md)
+  - 新增**使用模板创建文档**步骤 <badge text="新" type="tip"/>
+  - 将**串接文本框架**从 [3.3 基本操作](../ChapterNo3/3.3.md) 调整到本节
+- [1.2 美编全流程](../ChapterNo1/1.2.md) -> 修正部分链接错误
+- [附录：文学社公开资源](../Appendix/resource.md) -> 添加文学社标准字体说明
 ## 2024.11.6
 - 同步 Vue Theme Hope 到最新版本
   - 部分组件样式更新
