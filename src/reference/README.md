@@ -13,15 +13,12 @@ icon: book
 :::
 
 ## 最近更新
+### 2024.11.10
+- [4.1 搜寻图片](./ChapterNo4/4.1.md#常用的素材网站) -> 补充爱给网
+
 ### 2024.11.9
 - [3.2 初识 InDesign](./ChapterNo3/3.2.md#版面辅助线) -> 新增**版面辅助线** <badge text="新" type="tip"/>
-### 2024.11.8
-- [4.1 搜寻图片](./ChapterNo4/4.1.md#常用的素材网站) -> 新增大量素材网站 <badge text="新" type="tip"/>
-- [3.2 初识 InDesign](./ChapterNo3/3.2.md)
-  - 新增**使用模板创建文档**步骤 <badge text="新" type="tip"/>
-  - 将**串接文本框架**从 [3.3 基本操作](./ChapterNo3/3.3.md) 调整到本节
-- [1.2 美编全流程](./ChapterNo1/1.2.md) -> 修正部分链接错误
-- [附录：文学社公开资源](./Appendix/resource.md) -> 添加文学社标准字体说明
+ <badge text="新" type="tip"/>
 
 > [附录：历史更新日志](Appendix/changelog.md)
 
