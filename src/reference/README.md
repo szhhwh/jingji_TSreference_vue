@@ -13,12 +13,8 @@ icon: book
 :::
 
 ## 最近更新
-### 2024.11.10
-- [4.1 搜寻图片](./ChapterNo4/4.1.md#常用的素材网站) -> 补充爱给网
-
-### 2024.11.9
-- [3.2 初识 InDesign](./ChapterNo3/3.2.md#版面辅助线) -> 新增**版面辅助线** <badge text="新" type="tip"/>
- <badge text="新" type="tip"/>
+### 2024.11.18
+- 为文档添加搜索功能（目前仅支持搜索标题）
 
 > [附录：历史更新日志](Appendix/changelog.md)
 
