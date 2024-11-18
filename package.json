@@ -18,9 +18,10 @@
     "vuepress-theme-hope": "2.0.0-rc.59"
   },
   "volta": {
-    "node": "20.17.0"
+    "node": "22.11.0"
   },
   "dependencies": {
-    "katex": "^0.16.11"
+    "katex": "^0.16.11",
+    "vuepress-plugin-search-pro": "2.0.0-rc.59"
   }
 }

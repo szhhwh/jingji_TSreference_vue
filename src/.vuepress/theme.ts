@@ -87,7 +87,8 @@ export default hopeTheme({
       type: "katex",
     },
     markdownTab: true,
-    git: true
+    git: true,
+    searchPro: true,
   },
   pageInfo: [
     "Author", "Date", "ReadingTime", "Word"
