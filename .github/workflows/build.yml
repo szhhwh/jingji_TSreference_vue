@@ -1,14 +1,11 @@
 name: deploying-doc
 run-name: Deploying doc — ${{ github.run_id }}
 on:
-    pull_request:
-        branches: main
-        types:
-          - closed
+    schedule:
+      - cron: 30 04 * * 1,4
 
 jobs:
-    if_merged:
-      if: github.event.pull_request.merged == true
+  build:
       runs-on: ubuntu-latest
       steps:
           - name: 🚚 Checkout
