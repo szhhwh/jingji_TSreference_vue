@@ -5,27 +5,29 @@
 1. 依赖环境
 - Node.js v20.17.0
 - volta
-1. 建议使用 [volta](https://volta.sh/) 安装 [Node.js](https://nodejs.org/)
+
+2. 建议使用 [volta](https://volta.sh/) 安装 [Node.js](https://nodejs.org/)
 ```sh
 volta install node@20.17.0
 ```
 ```sh
 volta install pnpm
 ```
-2. 安装依赖
+
+3. 安装依赖
 ```sh
 pnpm i
 ```
-3. 本地预览
+4. 本地预览
 ```sh
 pnpm run docs:dev
 ```
-4. 构建静态页面。构建完成的网页会保存在 ``src\.vuepress\dist``
+5. 构建静态页面。构建完成的网页会保存在 ``src\.vuepress\dist``
 ```sh
 pnpm run docs:build
 ```
 
-5. 更新依赖
+6. 更新依赖
 ```sh
 pnpm dlx vp-update
 ```
