@@ -4,6 +4,10 @@ index: false
 icon: book
 ---
 
+![GitHub last commit](https://img.shields.io/github/last-commit/szhhwh/jingji_TSreference_vue)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/szhhwh/jingji_TSreference_vue/build.yml)
+![GitHub License](https://img.shields.io/github/license/szhhwh/jingji_TSreference_vue)
+
 欢迎来到荆棘鸟文学社美编文档！🎉
 
 美编的一切从这里开始。✨
