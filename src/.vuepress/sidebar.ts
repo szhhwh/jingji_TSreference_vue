@@ -11,37 +11,37 @@ export default sidebar({
       text: "ChapterNo1 美编的开始",
       prefix: "ChapterNo1",
       children: "structure",
-      collapsible: true
+      collapsible: false
     },
     {
       text: "ChapterNo2 排版基础",
       prefix: "ChapterNo2",
       children: "structure",
-      collapsible: true
+      collapsible: false
     },
     {
       text: "ChapterNo3 InDesign 软件",
       prefix: "ChapterNo3",
       children: "structure",
-      collapsible: true
+      collapsible: false
     },
     {
       text: "ChapterNo4 图片",
       prefix: "ChapterNo4",
       children: "structure",
-      collapsible: true
+      collapsible: false
     },
     {
       text: "ChapterNo5 素材管理",
       prefix: "ChapterNo5",
       children: "structure",
-      collapsible: true
+      collapsible: false
     },
     {
       text: "ChapterNo6 大功告成",
       prefix: "ChapterNo6",
       children: "structure",
-      collapsible: true
+      collapsible: false
     },
     {
       text: "Appendix 附录",
@@ -52,7 +52,7 @@ export default sidebar({
         'resource.md',
         'changelog.md'
       ],
-      collapsible: true
+      collapsible: false
     }
   ],
   "/spbook/": [
@@ -65,13 +65,13 @@ export default sidebar({
       text: "ChapterNo1 刊物规格",
       prefix: "Cpt1",
       children: "structure",
-      collapsible: true
+      collapsible: false
     },
     {
       text: "ChapterNo2 收集和打稿",
       prefix: "Cpt2",
       children: "structure",
-      collapsible: true
+      collapsible: false
     },
     {
       text: "Appendix 附录",
@@ -79,7 +79,7 @@ export default sidebar({
       children: [
         'changelog.md'
       ],
-      collapsible: true
+      collapsible: false
     }
   ],
   "/other/": [
