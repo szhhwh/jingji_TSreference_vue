@@ -17,8 +17,8 @@ icon: book
 :::
 
 ## 最近更新
-### 2024.12.28
-- [3.1 安装和配置软件](ChapterNo3/3.1.md) -> 添加 Monkrus 网站失效说明
+### 2024.12.30
+- [附录：常见问题](Appendix/question.md#出现解决此问题所需的-adobe-creative-cloud-丢失或损坏弹窗) -> 补充出现“解决此问题所需的 Adobe Creative Cloud 丢失或损坏”弹窗的解决方案
 
 > [附录：历史更新日志](Appendix/changelog.md)
 

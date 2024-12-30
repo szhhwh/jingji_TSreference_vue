@@ -150,3 +150,17 @@ QQ 是我们经常会用来传输图片和文件的软件之一，但是很多�
 3. 点击**始终**即可为该类型的文件绑定打开方式
 
 ![指定文件打开方式](../assets/recording%202.gif)
+
+## 出现“解决此问题所需的 Adobe Creative Cloud 丢失或损坏”弹窗
+
+![](../assets/image/Pasted%20image%2020241230173456.jpg)
+
+出现这个弹窗是因为在安装 Adobe 系列软件时，会附带一个 Adobe Creative Cloud 软件，这个软件在一些经过修改的安装包中是不完整的，所以在启动时会报错。我们只需要将这个软件直接删除即可。
+
+::: warning 关闭 Adobe 系列软件
+在进行删除操作前，请确认已经关闭**所有的 Adobe 系列软件**。
+:::
+
+1. 右键点击任务栏，或者使用快捷键 `Ctrl+Shift+Esc` 打开任务管理器，切换到详细信息选项卡。右键点击所有与 Adobe 相关的进程，将它们**结束运行**![](../assets/image/Pasted%20image%2020241230175052.jpg)
+2. 在**文件资源管理器**中，打开目录 `C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common`，将目录下的 `ADS` 文件夹删除![](../assets/image/Pasted%20image%2020241230175339.jpg)
+3. 删除后即可彻底解决该弹窗问题
