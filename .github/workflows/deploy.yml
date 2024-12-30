@@ -1,8 +1,9 @@
 name: deploying-doc
 run-name: Deploying doc — ${{ github.run_id }}
 on:
-    schedule:
-      - cron: 30 04 * * 1,4
+  workflow_dispatch:
+  schedule:
+    - cron: 30 04 * * 1,4
 
 jobs:
   build:
