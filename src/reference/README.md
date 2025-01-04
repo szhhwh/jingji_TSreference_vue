@@ -5,7 +5,6 @@ icon: book
 ---
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/szhhwh/jingji_TSreference_vue)
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/szhhwh/jingji_TSreference_vue/build.yml)
 ![GitHub License](https://img.shields.io/github/license/szhhwh/jingji_TSreference_vue)
 
 欢迎来到荆棘鸟文学社美编文档！🎉
@@ -17,10 +16,11 @@ icon: book
 :::
 
 ## 最近更新
+### 2025.1.4
+- 美编文档现在在[荆棘鸟文学社官方域名](https://book.jjnwxs.cn)上可用✨
+
 ### 2024.12.30
 - [附录：常见问题](Appendix/question.md#出现解决此问题所需的-adobe-creative-cloud-丢失或损坏弹窗) -> 补充出现“解决此问题所需的 Adobe Creative Cloud 丢失或损坏”弹窗的解决方案
-
-> [附录：历史更新日志](Appendix/changelog.md)
 
 2024 年最后一次 Commit！🎉
 
@@ -33,6 +33,8 @@ icon: book
 希望这一份文档能够帮助到每一位荆棘鸟的小鸽子呀！
 
 祝大家 2025 年新年快乐！🎇
+
+> [附录：历史更新日志](Appendix/changelog.md)
 
 ## 内容指引
 如果你是初次进行美编工作，我们推荐你先阅读 [1.2 美编全流程](ChapterNo1/1.2.md)。
