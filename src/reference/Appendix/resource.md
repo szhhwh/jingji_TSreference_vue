@@ -37,7 +37,7 @@ category:
 :::
 ## 外交部
 
-::: info 高三特刊收集表（2024）
-- [点击跳转百度网盘](https://pan.baidu.com/s/1iFwDLnC3TZ63afL8XTEnRg?pwd=qta0)
-- 提取码：qta0
+::: info 高三特刊收集表（2025）
+- [点击跳转百度网盘](https://pan.baidu.com/s/1Q7BzCME0VcsPdnWTjNNJrw?pwd=24t6)
+- 提取码：24t6
 :::
