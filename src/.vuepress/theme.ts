@@ -43,6 +43,7 @@ export default hopeTheme({
 
   plugins: {
     // All features are enabled for demo, only preserve features you need here
+    copyright: true,
     mdEnhance: {
       align: true,
       attrs: true,
