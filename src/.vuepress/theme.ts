@@ -10,9 +10,6 @@ export default hopeTheme({
     url: "https://github.com/szhhwh/",
   },
 
-  // icon
-  iconAssets: "fontawesome",
-
   logo: "/logo.png",
   logoDark: '/logo-dark.png',
 
@@ -30,11 +27,45 @@ export default hopeTheme({
 
   displayFooter: true,
 
-  // encrypt: {
-  //   config: {
-  //     "/demo/encrypt.html": ["1234"],
-  //   },
-  // },
+  // markdown
+  markdown: {
+    gfm: false,
+    sub: true,
+    sup: true,
+    vPre: true,
+    vuePlayground: false,
+    align: true,
+    attrs: true,
+    include: true,
+    chartjs: false,
+    demo: false,
+    echarts: false,
+    flowchart: false,
+
+    mark: true,
+    mermaid: false,
+    playground: {
+      presets: ["ts", "vue"],
+    },
+    stylize: [
+      {
+        matcher: "Recommended",
+        replacer: ({ tag }) => {
+          if (tag === "em")
+            return {
+              tag: "Badge",
+              attrs: { type: "tip" },
+              content: "Recommended",
+            };
+        },
+      },
+    ],
+    math: {
+      type: "katex"
+    },
+    tabs: true,
+    imgSize: true,
+  },
 
   // page meta
   metaLocales: {
@@ -42,54 +73,15 @@ export default hopeTheme({
   },
 
   plugins: {
-    // All features are enabled for demo, only preserve features you need here
     copyright: true,
-    mdEnhance: {
-      align: true,
-      attrs: true,
-      chart: false,
-      demo: false,
-      echarts: false,
-      flowchart: false,
-      gfm: false,
-      include: true,
-      mark: true,
-      mermaid: false,
-      playground: {
-        presets: ["ts", "vue"],
-      },
-      stylize: [
-        {
-          matcher: "Recommended",
-          replacer: ({ tag }) => {
-            if (tag === "em")
-              return {
-                tag: "Badge",
-                attrs: { type: "tip" },
-                content: "Recommended",
-              };
-          },
-        },
-      ],
-      sub: true,
-      sup: true,
-      vPre: true,
-      vuePlayground: false,
-    },
     components: {
       components: ["Badge", "BiliBili"],
     },
-    markdownImage: {
-      figure: true,
-      lazyload: true,
-      size: true,
-    },
-    markdownMath: {
-      type: "katex",
-    },
-    markdownTab: true,
     git: true,
-    searchPro: true,
+    slimsearch: true,
+    icon: {
+      assets: "fontawesome",
+    }
   },
   pageInfo: [
     "Author", "Date", "ReadingTime", "Word"
