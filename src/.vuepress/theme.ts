@@ -65,6 +65,7 @@ export default hopeTheme({
     },
     tabs: true,
     imgSize: true,
+    figure: true,
   },
 
   // page meta
