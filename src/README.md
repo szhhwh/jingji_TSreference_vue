@@ -49,7 +49,7 @@ highlights:
           details: 上交排版作品流程
 
 copyright: false
-footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | GPL-3.0 协议, 版权所有 © 2023-present Lionhao
+footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | GPL-3.0 协议, 版权所有 © 2023-present 荆棘鸟文学社
 ---
 
 ## 文学社原则

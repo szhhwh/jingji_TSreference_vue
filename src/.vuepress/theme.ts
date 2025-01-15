@@ -3,10 +3,10 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "http://szhh.hr98.net/",
+  hostname: "https://book.jjnwxs.cn/",
 
   author: {
-    name: "狮子耗耗",
+    name: "荆棘鸟文学社",
     url: "https://github.com/szhhwh/",
   },
 
@@ -43,6 +43,7 @@ export default hopeTheme({
 
   plugins: {
     // All features are enabled for demo, only preserve features you need here
+    copyright: true,
     mdEnhance: {
       align: true,
       attrs: true,
