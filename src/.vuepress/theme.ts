@@ -6,7 +6,7 @@ export default hopeTheme({
   hostname: "http://szhh.hr98.net/",
 
   author: {
-    name: "狮子耗耗",
+    name: "荆棘鸟文学社",
     url: "https://github.com/szhhwh/",
   },
 
