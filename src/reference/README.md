@@ -28,7 +28,7 @@ icon: book
   - 裁切字重演示图片
 - [2.2 文字排版规范](ChapterNo2/2.2.md#换行符) -> 新增**换行符**规范
 - [3.1 安装和配置软件](ChapterNo3/3.1.md) -> 删除过时的 InDesign 系统要求
-- [3.4 进阶操作](ChapterNo3/3.4.md) -> 优化制表符添加流程
+- [3.4 进阶操作](ChapterNo3/3.4.md#制表符) -> 优化制表符添加流程
 - 修正所有 InDesign 软件名大小写
 
 > [附录：历史更新日志](Appendix/changelog.md)
