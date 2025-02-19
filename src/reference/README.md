@@ -16,8 +16,8 @@ icon: book
 :::
 
 ## 最近更新
-### 2024.1.21
-- [3.4 进阶操作](ChapterNo3/3.4.md#路径文字) -> 新增**路径文字**<badge text="新增" type="tip"/>
+### 2025.2.19
+- [3.1 安装和配置软件](ChapterNo3/3.1.md#indesign-软件下载) -> 更新 InDesign 下载链接/删除无用下载信息
 
 > [附录：历史更新日志](Appendix/changelog.md)
 
