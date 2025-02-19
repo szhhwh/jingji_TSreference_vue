@@ -5,6 +5,8 @@ category:
   - 附录
 ---
 
+## 2025.1.21
+- [3.4 进阶操作](../ChapterNo3/3.4.md#路径文字) -> 新增**路径文字**<badge text="新增" type="tip"/>
 ## 2025.1.20
 - [3.1 安装和配置软件](../ChapterNo3/3.1.md) -> 更新最后一个支持 Windows 7 的 InDesign 版本
 ## 2025.1.18
