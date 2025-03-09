@@ -4,40 +4,22 @@ index: false
 category:
   - 附录
 ---
-## 美编部
 
-::: info 微博 @vposy 制作的一键安装包
-- [点击跳转百度网盘](https://pan.baidu.com/s/1lFZu1uKfeP7yyV3YaI8b9Q?pwd=pht2)
-- 提取码：pht2
-- 解压密码：@vposy
-:::
+## 荆棘鸟文学社网盘
+1. 点击链接 [🔗荆棘鸟文学社网盘](https://alist.jjnwxs.cn) 进入网盘
+2. 你不需要登录账号即可在网盘中进行下载可见的资源
+3. 如果需要下载隐藏的资源，请通过邮件联系网站管理员获取账号
 
-::: info 方正标准字体
-> 该字体包为文学社刊物标准字体，如在使用模板时，遇到字体丢失的问题，请下载本字体包并安装内含的字体
+## 公开资源列表
+- 美编部
+  - 荆棘鸟方正标准字体
+  - 荆棘鸟文学社正刊模板 v2
+  - 文学社 LOGO
+  - 文学社特刊 QR 活码
+  - Adobe InDesign 软件（登录账号后可见）
+- 外交部
+  - 荆棘鸟文学社高三特刊收集表（2025）
 
-- [点击跳转百度网盘](https://pan.baidu.com/s/1xD-LhH-67BT7aqCBF65_vA?pwd=3vkn)
-- 提取码：3vkn
-:::
-
-::: info 荆棘鸟文学社正刊模板 v2
-- [点击跳转百度网盘](https://pan.baidu.com/s/1k2Mgzxa4Xg3WTdmfWbEYGg?pwd=n7la)
-- 提取码：n7la
-- 注：该模板文件（indt）应直接使用 Adobe InDesign 打开
-:::
-
-::: info 文学社 LOGO
-- [点击跳转百度网盘](https://pan.baidu.com/s/1giRO28gdnKyZDHlm_frAMw?pwd=6z2z)
-- 提取码：6z2z
-:::
-
-::: info 文学社特刊网站二维码
-![右键单击后将图片另存为即可使用](../assets/文学社特刊QR活码.png)
-> （该二维码使用草料二维码的活码功能制作）
-
-:::
-## 外交部
-
-::: info 高三特刊收集表（2025）
-- [点击跳转百度网盘](https://pan.baidu.com/s/1Q7BzCME0VcsPdnWTjNNJrw?pwd=24t6)
-- 提取码：24t6
+::: info 网盘账号获取
+请通过邮件联系 [szhhlionhao@qq.com](mailto:szhhlionhao@qq.com) 获取账号，在邮件中请注明你的身份。
 :::
